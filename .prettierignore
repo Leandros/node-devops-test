@@ -1,0 +1,8 @@
+# Add files here to ignore them from prettier formatting
+/dist
+/coverage
+pnpm-lock.yaml
+**/*/package.json
+**/*/flags.config.js
+**/*/frontend.config.js
+**/*/generated/*.cjs
