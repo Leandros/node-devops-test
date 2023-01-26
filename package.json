@@ -14,7 +14,7 @@
   "scripts": {
     "lint": "eslint './src'",
     "build": "tsc",
-    "test": "jest",
+    "test": "jest"
   },
   "private": true,
   "devDependencies": {

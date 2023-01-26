@@ -11,7 +11,7 @@ with specialty in the TypeScript programming language.
 
 ```bash
 $ pnpm install
-$ ./bin/run --help
+$ ./bin/dev --help
 ```
 
 ## Challenge
